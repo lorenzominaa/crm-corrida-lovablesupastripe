@@ -24,7 +24,7 @@ Sistema de gerenciamento de leads com campos personalizados:
 Sistema de login com email e senha para clubes acessarem o CRM.
 
 🔗 Supabase ativo:  
-[https://anyvykvskdinubqottqp.supabase.co](https://anyvykvskdinubqottqp.supabase.co)  
+https://anyvyksvkdinubqottqp.supabase.co
 *(usuário de teste já cadastrado no painel de autenticação)*
 
 ---
